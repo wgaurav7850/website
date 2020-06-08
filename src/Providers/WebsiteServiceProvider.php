@@ -1,6 +1,6 @@
 <?php 
 
-namespace Gaurav\Website\Providers;
+namespace Wgaurav7850\Website\Providers;
 use Illuminate\Support\ServiceProvider;
 
 class WebsiteServiceProvider extends ServiceProvider {
