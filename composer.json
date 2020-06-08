@@ -12,7 +12,12 @@
           "Wgaurav7850\\Website\\": "src"
       }  
     },
-
+    "extra": {
+        "laravel":{
+            "providers": 
+            ["Wgaurav7850\\Website\\Providers\\WebsiteServiceProvider "] 
+        }
+    },
 
     "require-dev": {
         "phpunit/phpunit": "^9.3@dev"
